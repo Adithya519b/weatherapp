@@ -17,7 +17,7 @@ A responsive Weather Forecast Application built using **HTML, CSS, and JavaScrip
 
 ---
 
-# [live demo]:(https://adithya519b.github.io/weatherapp/)
+# **[live demo](https://adithya519b.github.io/weatherapp/)**
 
 ## 🛠️ Tech Stack
 
